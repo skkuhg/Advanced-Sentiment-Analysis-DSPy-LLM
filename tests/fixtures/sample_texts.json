@@ -1,0 +1,62 @@
+[
+  {
+    "text": "I absolutely love this product! It exceeded all my expectations.",
+    "expected_sentiment": "positive",
+    "expected_confidence": 0.95,
+    "tags": ["product_review", "high_confidence"]
+  },
+  {
+    "text": "This is the worst experience I've ever had. Completely disappointed.",
+    "expected_sentiment": "negative",
+    "expected_confidence": 0.92,
+    "tags": ["experience_review", "strong_negative"]
+  },
+  {
+    "text": "The weather today is okay, nothing special.",
+    "expected_sentiment": "neutral",
+    "expected_confidence": 0.75,
+    "tags": ["casual_comment", "neutral_tone"]
+  },
+  {
+    "text": "I'm not sure how I feel about this new policy. It has pros and cons.",
+    "expected_sentiment": "neutral",
+    "expected_confidence": 0.65,
+    "tags": ["mixed_opinion", "uncertainty"]
+  },
+  {
+    "text": "Amazing service! The staff was incredibly helpful and friendly.",
+    "expected_sentiment": "positive",
+    "expected_confidence": 0.89,
+    "tags": ["service_review", "staff_praise"]
+  },
+  {
+    "text": "Terrible quality, broke after one day. Don't waste your money!",
+    "expected_sentiment": "negative",
+    "expected_confidence": 0.94,
+    "tags": ["quality_complaint", "warning"]
+  },
+  {
+    "text": "The presentation was informative and well-structured.",
+    "expected_sentiment": "positive",
+    "expected_confidence": 0.78,
+    "tags": ["educational_content", "professional"]
+  },
+  {
+    "text": "I have mixed feelings about the new update. Some features are great, others not so much.",
+    "expected_sentiment": "neutral",
+    "expected_confidence": 0.58,
+    "tags": ["software_review", "mixed_feedback"]
+  },
+  {
+    "text": "Outstanding performance! This tool has revolutionized our workflow.",
+    "expected_sentiment": "positive",
+    "expected_confidence": 0.96,
+    "tags": ["business_tool", "workflow_improvement"]
+  },
+  {
+    "text": "Customer support was unresponsive and unhelpful. Very frustrating experience.",
+    "expected_sentiment": "negative",
+    "expected_confidence": 0.88,
+    "tags": ["support_complaint", "frustration"]
+  }
+]
