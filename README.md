@@ -56,7 +56,7 @@ A sophisticated, production-ready sentiment analysis system built with DSPy fram
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/advanced-sentiment-analysis.git
+   git clone https://github.com/your-username/advanced-sentiment-analysis.git](https://github.com/skkuhg/Advanced-Sentiment-Analysis-DSPy-LLM.git
    cd advanced-sentiment-analysis
    ```
 
